@@ -1,4 +1,4 @@
-# Amazon-Clone
+# Amazon-Clone (Click here for Demo - https://developeratharva.github.io/Amazon-Clone/)
 
 This project is a simplified Amazon clone developed as part of my JavaScript learning journey. The primary focus was to implement JavaScript to make the site fully interactive.
 
