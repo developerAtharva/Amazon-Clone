@@ -16,7 +16,10 @@ This project is a **fully interactive** Amazon Clone, developed as part of my **
 🔹 **HTML & CSS** – Pre-built structure & styling  
 
 ## 📸 Preview  
-![Amazon Clone Preview](https://via.placeholder.com/800x400?text=Amazon+Clone+Preview)  
+[Home Page]![image](https://github.com/user-attachments/assets/f7aeb22f-a99a-4105-b1a7-4c1f87c8e65c)
+[Checkout Page]![image](https://github.com/user-attachments/assets/905e7992-1867-432d-9aeb-467b0ca9cd7a)
+[Orders Page]![image](https://github.com/user-attachments/assets/e60bf231-4453-45d4-a8c6-9937766ff6a1)
+
 
 ## 🔥 What I Learned  
 🚀 JavaScript DOM Manipulation  
